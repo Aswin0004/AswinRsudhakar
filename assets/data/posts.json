@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fdp-ai-teaching",
+    "category": "WORKSHOP / FDP",
+    "date": "2026-10-01",
+    "date_label": "2026",
+    "title": "Making AI Useful for Teaching & Learning",
+    "excerpt": "Reflections from facilitating a five-hour faculty development workshop on practical AI in education.",
+    "image": "story.jpg",
+    "reading": "4 min read",
+    "body": [
+      [
+        "Context",
+        "A faculty development programme is most valuable when participants can connect concepts with their own classroom practice. This session focused on practical ways educators can understand and explore AI-powered teaching tools."
+      ],
+      [
+        "What the session covered",
+        "The workshop explored AI for lesson preparation, learning materials, question design, classroom tasks and responsible use. Hands-on examples helped connect tools to familiar education workflows."
+      ],
+      [
+        "Key takeaway",
+        "Useful AI adoption starts with a clear teaching problem, careful review of generated outputs and a teacher who remains accountable for the learning experience."
+      ],
+      [
+        "Event",
+        "Faculty development workshop at Malik Deenar College of Graduate Studies, Kasaragod. This article is a summary based on the trainer’s project history, not a published event report."
+      ]
+    ]
+  },
+  {
+    "id": "building-educore",
+    "category": "BUILD LOG",
+    "date": "2026-11-05",
+    "date_label": "NOV 2026",
+    "title": "Designing Academic Workflows That Hold Up in Testing",
+    "excerpt": "Lessons from permissions, scheduling constraints and attendance workflows in EduCore.",
+    "image": "educore.jpg",
+    "reading": "5 min read",
+    "body": [
+      [
+        "Why workflows matter",
+        "A dashboard is only the visible surface of a management system. The difficult part is enforcing who can change which record, and under what conditions."
+      ],
+      [
+        "Schedule constraints",
+        "A class-session workflow needs to handle cancelled sessions, conflicts involving batches or trainers and invalid attendance dates. These rules belong on the server rather than only in interface controls."
+      ],
+      [
+        "Testing as product design",
+        "Permission tests and conflict tests reveal assumptions before users encounter them. Reproducible automated checks make iterative development safer."
+      ],
+      [
+        "Next steps",
+        "Continued work includes reporting, clarity around concurrent edits and more complete end-to-end UI verification."
+      ]
+    ]
+  },
+  {
+    "id": "classroom-tools",
+    "category": "DEVELOPMENT",
+    "date": "2026-10-24",
+    "date_label": "OCT 2026",
+    "title": "Why I Started Building Tools for Smarter Classrooms",
+    "excerpt": "From team shuffling to student evaluation: making repetitive trainer tasks simpler.",
+    "image": "teamflow.jpg",
+    "reading": "4 min read",
+    "body": [
+      [
+        "The classroom problem",
+        "Creating fair groups, tracking participation and reviewing project submissions takes time that could otherwise go toward teaching and feedback."
+      ],
+      [
+        "Start small",
+        "A prototype can begin with student imports, group generation, reshuffling and exports. This is valuable even before adding machine learning."
+      ],
+      [
+        "What comes next",
+        "More sophisticated recommendations require reliable data and evidence that suggestions actually improve outcomes. AI should be an optional layer on top of a dependable classroom workflow."
+      ]
+    ]
+  }
+]
